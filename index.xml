@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oog Voor Lezen</title>
+    <link>https://oogvoorlezen.nl/</link>
+    <description>Recent content on Oog Voor Lezen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://oogvoorlezen.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://oogvoorlezen.nl/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://oogvoorlezen.nl/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://oogvoorlezen.nl/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://oogvoorlezen.nl/welkom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/welkom/</guid>
+      <description>Welkom, fijn dat je er bent! Wij zijn OOG.VOOR.LEZEN. Wat leuk dat je een kijkje komt nemen in onze digitale huiskamer.
+Op deze pagina leggen we je graag uit, wie we zijn, wat we echt doen en waarom we dat elke dag blijven doen. De pagina oplossing legt uit hoe we werken, wat onze totaal oplossing is en de impact daarvan.</description>
+    </item>
+    
+    <item>
+      <title>Artikelen</title>
+      <link>https://oogvoorlezen.nl/artikelen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/artikelen/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://oogvoorlezen.nl/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/contact/</guid>
+      <description>Contact Hoi! Wat leuk dat je contact met ons wilt. We vinden het altijd fijn om van je te horen. Heb je een vraag, suggestie of een flinke dosis liefde voor ons? Tof!
+Wat goed dat je meer wilt weten. Je kunt ons altijd contacten :</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Maatregelen</title>
+      <link>https://oogvoorlezen.nl/covid-maatregelen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/covid-maatregelen/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Nieuwtjes</title>
+      <link>https://oogvoorlezen.nl/nieuwtjes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/nieuwtjes/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Onderzoek</title>
+      <link>https://oogvoorlezen.nl/onderzoek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/onderzoek/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Prijzen</title>
+      <link>https://oogvoorlezen.nl/prijzen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/prijzen/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Rapporten</title>
+      <link>https://oogvoorlezen.nl/rapporten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/rapporten/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Stage en Scriptie</title>
+      <link>https://oogvoorlezen.nl/stage-en-scriptie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/stage-en-scriptie/</guid>
+      <description>Bij OOG.VOOR.LEZEN wordt veel onderzoek gedaan. Soms is dat om een nieuw product vorm te geven, maar soms is het ook de bedoeling om een bijdrage te leveren aan de wetenschap. De volgende onderzoeksprojecten zijn in de afgelopen jaren uitgevoerd door master studenten psychologie.
+De invloed van stress op lezen (onderzoekstage) Master-student Pascal Fruneaux vroeg zich af welke invloed angst en stress hebben op het lezen.</description>
+    </item>
+    
+    <item>
+      <title>Techniek</title>
+      <link>https://oogvoorlezen.nl/techniek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/techniek/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Uitdagingen als ondernemer/bestuurder</title>
+      <link>https://oogvoorlezen.nl/welkom/uitdagingen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/welkom/uitdagingen/</guid>
+      <description>Er zijn meerdere uitdagingen waar ondernemers/werkgevers of bestuurders tegenaan lopen:
+  de wereld die steeds digitaler wordt
+  het (verplichte) thuiswerken/ werken op afstand of op locatie met digitale hulpmiddelen
+  verzuim
+  werkdruk of werkstress
+  verloop van teamleden</description>
+    </item>
+    
+    <item>
+      <title>Veelgestelde Vragen</title>
+      <link>https://oogvoorlezen.nl/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/faq/</guid>
+      <description>Inhoudsopgave van de vragen/thema’s   Screening
+  Ogen en lezen
+  Techniek
+  Projecten
+  OVL als bedrijf/organisatie
+  Covid
+  Onze klanten
+  Overige
+  Ben je een hbo of wo student? Klik hier voor info.</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://oogvoorlezen.nl/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/videos/</guid>
+      <description>Omdat we blablabla Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Waarom we willen werken</title>
+      <link>https://oogvoorlezen.nl/welkom/waarom-we-willen-werken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/welkom/waarom-we-willen-werken/</guid>
+      <description>Het is onze missie dat alle mensen met een (betaalde) baan in NL een eerlijke keuze hebben om hun eigen capaciteiten te benutten. We geloven dat iedereen de vrijheid en de verantwoordelijkheid heeft om een eigen plek in de maatschappij te vinden. Zodat wij allemaal persoonlijk waarde toe kan voegen en/of waarde kan creëren.</description>
+    </item>
+    
+    <item>
+      <title>Wat we doen</title>
+      <link>https://oogvoorlezen.nl/welkom/wat-we-doen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/welkom/wat-we-doen/</guid>
+      <description>Wij screenen met ons systeem (Pseycecathcer®) in korte tijd hoe leesvaardig jij bent. Je weet dan hoe het staat met jouw lezen als het gaat om begrip, techniek en strategie, zonder dat je ook maar één woord hardop hoeft te lezen.
+Onze screening is objectief en mogelijk op de verschillende taalniveau’s.</description>
+    </item>
+    
+    <item>
+      <title>Wat we doen?</title>
+      <link>https://oogvoorlezen.nl/wat-we-doen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/wat-we-doen/</guid>
+      <description>Nog leeg Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required.</description>
+    </item>
+    
+    <item>
+      <title>Wie wij zijn</title>
+      <link>https://oogvoorlezen.nl/blog/1/01/01/linked-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/blog/1/01/01/linked-post/</guid>
+      <description>We zijn een innovatief familiebedrijf. We streven naar een integere en holistische manier om duurzaam impact te maken. Door met veel plezier te werken vanuit onze intrinsieke waarde, geven we bedrijven en instellingen inzicht in de kanshebbers en het ontwikkel potentieel van alle teamleden.</description>
+    </item>
+    
+    <item>
+      <title>Wie wij zijn</title>
+      <link>https://oogvoorlezen.nl/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/▾ images/logo.</description>
+    </item>
+    
+    <item>
+      <title>Wie zijn wij</title>
+      <link>https://oogvoorlezen.nl/welkom/wie-zijn-wij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/welkom/wie-zijn-wij/</guid>
+      <description>We zijn een innovatief familiebedrijf. We streven naar een integere en holistische manier om duurzaam impact te maken. Door met veel plezier te werken vanuit onze intrinsieke waarde, geven we bedrijven en instellingen inzicht in de kanshebbers en het ontwikkel potentieel van alle teamleden.</description>
+    </item>
+    
+  </channel>
+</rss>

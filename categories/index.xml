@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Oog Voor Lezen</title>
+    <link>https://oogvoorlezen.nl/categories/</link>
+    <description>Recent content in Categories on Oog Voor Lezen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="https://oogvoorlezen.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programming</title>
+      <link>https://oogvoorlezen.nl/categories/programming/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://oogvoorlezen.nl/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://oogvoorlezen.nl/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>https://oogvoorlezen.nl/categories/lorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oogvoorlezen.nl/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
