@@ -73,10 +73,6 @@
   </url>
   
   <url>
-    <loc>https://oogvoorlezen.nl/artikelen/</loc>
-  </url>
-  
-  <url>
     <loc>https://oogvoorlezen.nl/contact/</loc>
   </url>
   
@@ -93,19 +89,19 @@
   </url>
   
   <url>
+    <loc>https://oogvoorlezen.nl/nieuwtjes-en-prijzen/</loc>
+  </url>
+  
+  <url>
     <loc>https://oogvoorlezen.nl/categories/lorem/</loc>
   </url>
   
   <url>
-    <loc>https://oogvoorlezen.nl/nieuwtjes/</loc>
+    <loc>https://oogvoorlezen.nl/media/</loc>
   </url>
   
   <url>
-    <loc>https://oogvoorlezen.nl/onderzoek/</loc>
-  </url>
-  
-  <url>
-    <loc>https://oogvoorlezen.nl/prijzen/</loc>
+    <loc>https://oogvoorlezen.nl/oplossing/</loc>
   </url>
   
   <url>
@@ -113,15 +109,11 @@
   </url>
   
   <url>
-    <loc>https://oogvoorlezen.nl/rapporten/</loc>
+    <loc>https://oogvoorlezen.nl/rapport-en-onderzoek/</loc>
   </url>
   
   <url>
     <loc>https://oogvoorlezen.nl/stage-en-scriptie/</loc>
-  </url>
-  
-  <url>
-    <loc>https://oogvoorlezen.nl/techniek/</loc>
   </url>
   
   <url>
